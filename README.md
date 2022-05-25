@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElisaCT
-- 👀 I’m interested in UI/UX Designer
-- 🌱 I’m currently learning frontend developer
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m highly interested in UI/UX Designer
+- 🌱 I’m currently learning Quality Assurance
+- 💞️ I’m looking to collaborate on designing mobile and website
 - 📫 How to reach me: elisact02@gmail.com
 
 <!---
