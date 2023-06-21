@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElisaCT
-- 👀 I’m highly interested in UI/UX Designer
-- 🌱 I’m currently learning Quality Assurance
+- 👀 I’m highly interested in UI/UX Designer & Quality Assurance
+- 🌱 I’m currently learning FE Development
 - 💞️ I’m looking to collaborate on designing mobile and website
 - 📫 How to reach me: elisact02@gmail.com
 
